@@ -2,7 +2,7 @@ name: Update Live Projects
 
 on:
   schedule:
-    - cron: '0 3 * * 1'  # Every Monday at 3AM
+    - cron: '0 4 * * *'  # Everyday at 4 AM
   workflow_dispatch:
 
 jobs:
