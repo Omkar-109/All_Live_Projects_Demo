@@ -27,7 +27,8 @@ def get_live_projects():
             projects.append({
                 "name": heading,
                 "description": repo.get("description", "No description"),
-                "link": homepage
+                "repo_url": repo["html_url"],
+                "live": homepage
             })
     return projects
 
@@ -35,7 +36,9 @@ def build_markdown_table(projects):
     table = "| Project Name | Description | 🌐 Live Link |\n"
     table += "|--------------|-------------|---------------|\n"
     for p in projects:
-        table += f"| {p['name']} | {p['description']} | [Visit]({p['link']}) |\n"
+        project_link = f"[{p['name']}]({p['repo_url']})"
+        live_link = f"[Visit]({p['live']})"
+        table += f"| {project_link} | {p['description']} | {live_link} |\n"
     return table
 
 def update_readme(table):
