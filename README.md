@@ -2,5 +2,5 @@
 
 | Project Name | Description | Live Link |
 |--------------|-------------|-----------|
-<!-- PROJECTS_START -->
-<!-- PROJECTS_END -->
+<!--LIVE_PROJECTS_START-->
+<!--LIVE_PROJECTS_END-->
