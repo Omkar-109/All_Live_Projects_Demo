@@ -1,7 +1,5 @@
 # My Projects with live links
 
-| Project Name | Description | Live Link |
-|--------------|-------------|-----------|
 <!--LIVE_PROJECTS_START-->
 | Project Name | Description | 🌐 Live Link |
 |--------------|-------------|---------------|
