@@ -5,7 +5,7 @@
 |--------------|-------------|---------------|
 | [BootstrapProject](https://github.com/Omkar-109/BootstrapProject) | Simple website for Photo Editor app made using HTML, CSS and Bootstrap. | [Visit](https://omkar-109.github.io/BootstrapProject/) |
 | [Find-Dogs](https://github.com/Omkar-109/Find-Dogs) | Using public api key to get dogs images based on breed | [Visit](https://get-dog-photos.onrender.com) |
-| [**Image Generator**](https://github.com/Omkar-109/Image_Generator) | Gernerate Custom Images | [Visit](https://image-generator-mvlg.onrender.com/) |
+| [**Image Generator**](https://github.com/Omkar-109/Image_Generator) | Generate Custom Images | [Visit](https://image-generator-mvlg.onrender.com/) |
 | [My_Portfolio](https://github.com/Omkar-109/My_Portfolio) | My portfolio website using HTML,CSS,JavaScript | [Visit](https://omkar-109.github.io/My_Portfolio/) |
 | [Play Drum Website](https://github.com/Omkar-109/Play-Drum-Website) | A simple website to play drum sound. This project focuses on basic implementation of HTML, CSS and JavaScript. | [Visit](https://omkar-109.github.io/Play-Drum-Website/) |
 | [**Recipe Generator**](https://github.com/Omkar-109/Recipe-Generator) | Generate recipes with limited food items. | [Visit](https://custom-recipe-generator.onrender.com/) |
